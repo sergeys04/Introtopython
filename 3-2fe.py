@@ -8,7 +8,7 @@ Program that prints the sum of the numbers in s
 
 """
 
-s = '1.21,35.2,54.43,58.9'
+s = '2.3456,98.12,654.23,1.21'
 string = ''
 total = 0
 for x in s:
